@@ -1,5 +1,5 @@
 # Divij Shetty
-`// game developer · unity · low-poly art · web apps`
+`game developer · unity · low-poly 3D art · web apps`
 
 ---
 
