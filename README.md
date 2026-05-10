@@ -39,10 +39,18 @@
 ---
 
 ### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DivijShetty&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivijShetty&layout=compact&theme=tokyonight&hide_border=true)
-
+ 
+<!-- Using github-readme-stats-fast instance — more reliable than the default public instance -->
+<p align="left">
+  <img height="160em"
+       src="https://github-readme-stats-fast.vercel.app/api?username=DivijShetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       alt="Divij's GitHub Stats"
+       onerror="this.style.display='none'" />
+  <img height="160em"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DivijShetty&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+       alt="Top Languages"
+       onerror="this.style.display='none'" />
+</p>
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://divijshetty-portfolio.vercel.app) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat)](https://divsource.itch.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divijshetty) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:divijshetty04@gmail.com)
